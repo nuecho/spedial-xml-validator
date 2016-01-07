@@ -1,0 +1,11 @@
+apply plugin: 'java'
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'com.nuecho.spedial.SpeDialXmlValidator'
+    }
+}
+
+description = 'SPDXML Validator'
+version = '1.0.0'
+group = 'com.nuecho'

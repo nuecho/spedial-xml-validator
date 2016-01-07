@@ -1,0 +1,14 @@
+.gradle
+.checkstyle
+.classpath
+.jshintrc
+.project
+.settings
+*.orig
+*~
+bin/
+build/
+config/
+gen/
+obj/
+classes/
