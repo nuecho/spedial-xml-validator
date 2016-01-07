@@ -5,5 +5,5 @@ To do so, you need to provide two arguments when running the jar file. The first
 
 Example: 
 
-java -jar spdxml-validator.jar /home/myUser/myXmlFile.xml /home/myuser/myXsdFile.xsd
-java -jar spdxml-validator.jar C://myXmlFile.xml C://myXsdFile.xsd
+- java -jar spdxml-validator.jar /home/myUser/myXmlFile.xml /home/myuser/myXsdFile.xsd
+- java -jar spdxml-validator.jar C://myXmlFile.xml C://myXsdFile.xsd
