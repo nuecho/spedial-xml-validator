@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2015 Nu Echo Inc.
+ * 
+ * This is free software. For terms and warranty disclaimer, see license.md
+ */
+
 package com.nuecho.spedial;
 
 import static java.lang.String.*;
